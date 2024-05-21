@@ -1,16 +1,15 @@
-## Hi there 👋
+### Bem Vindo ao meu perfil 🇧🇷
 
-<!--
-**iuryevaristo/iuryEvaristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Iury evaristo**
 
-Here are some ideas to get you started:
+- Estou no [Alura](/httpl://www.alura.com.br)
+- Estou me desenvolvendo na linguagem de JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entrar em contato
+
+00001093998921sp@al.educacao.sp.gov.br
+
+@iuryEvaristo
+
+![image](https://github.com/iuryevaristo/iuryEvaristo/assets/170018411/75615adc-6b87-41ce-b7e5-9aab93bf9a6a)
